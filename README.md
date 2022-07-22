@@ -66,38 +66,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mironshoh1603&show_icons=true&theme=gotham" alt="MagicSoft.uz" />
 
-- uses: Platane/snk@v2
-  with:
-
-  # github user name to read the contribution graph from (**required**)
-
-  # using action context var `github.repository_owner` or specified user
-
-  github_user_name: ${{ https://github.com/Mironshoh1603 }}
-
-  # list of files to generate.
-
-  # one file per line. Each output can be customized with options as query string.
-
-  #
-
-  # supported options:
-
-  # - palette: A preset of color, one of [github, github-dark, github-light]
-
-  # - color_snake: Color of the snake
-
-  # - color_dots: Coma separated list of dots color.
-
-  # The first one is 0 contribution, then it goes from the low contribution to the highest.
-
-  # Exactly 5 colors are expected.
-
-  outputs: |
-  dist/github-snake.svg
-  dist/github-snake-dark.svg?palette=github-dark
-  dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
 ## 💻 Last month's activity
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
@@ -108,4 +76,97 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <a href="https://github.com/ValisherBotirov/readme-typing-svg">
        <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+</p>
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
+![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
+![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
+![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+## 🗄️ Databases
+
+<p>
+<!--     <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="#"> -->
+        <img alt="SQL Server"
+             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+    <a href="#">
+        <img alt="MySql"
+             src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
+</p>
+
+### ☁ Cloud hosting
+
+<p>
+    <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    <a href="#">
+        <img alt="AWS"
+             src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
+    <a href="#">
+        <img alt="Google Cloud"
+             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+<!--     <a href="#">
+        <img alt="Conda"
+             src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    <a href="#">
+        <img alt="PyCharm"
+             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> -->
+<a href="#">
+        <img alt="GIT"
+             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></a>
+
+<a href="#">
+        <img alt="#"
+             src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="70" width="70"></a>
+  
+  
+<a href="#">
+        <img alt="Vsual Studio"
+             src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow" ></a>
+  https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif
+    <a href="#">
+        <img alt="Postman"
+             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
 </p>
