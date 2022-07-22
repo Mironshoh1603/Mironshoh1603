@@ -23,7 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:mironshohasadov2003@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:***
+**languages and tools:\***
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -55,7 +55,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- TODO-IST:START -->
 
-🏆 7,995 Karma Points my github 
+🏆 7,995 Karma Points my github
 🌸 Completed 0 tasks today  
 ✅ Completed 673 tasks so far  
 ⏳ Longest streak is 10 days
@@ -65,3 +65,47 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mironshoh1603&show_icons=true&theme=gotham" alt="MagicSoft.uz" />
+
+- uses: Platane/snk@v2
+  with:
+
+  # github user name to read the contribution graph from (**required**)
+
+  # using action context var `github.repository_owner` or specified user
+
+  github_user_name: ${{ https://github.com/Mironshoh1603 }}
+
+  # list of files to generate.
+
+  # one file per line. Each output can be customized with options as query string.
+
+  #
+
+  # supported options:
+
+  # - palette: A preset of color, one of [github, github-dark, github-light]
+
+  # - color_snake: Color of the snake
+
+  # - color_dots: Coma separated list of dots color.
+
+  # The first one is 0 contribution, then it goes from the low contribution to the highest.
+
+  # Exactly 5 colors are expected.
+
+  outputs: |
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?palette=github-dark
+  dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+## 💻 Last month's activity
+
+<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
+
+<a href="https://github.com/Mironshoh1603"><img alt="Mironshoh1603's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mironshoh1603&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <p align="center">
+    <a href="https://github.com/ValisherBotirov/readme-typing-svg">
+       <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+</p>
