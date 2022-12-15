@@ -66,17 +66,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mironshoh1603&show_icons=true&theme=gotham" alt="MagicSoft.uz" />
 
-## 💻 Last month's activity
 
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-
-<a href="https://github.com/Mironshoh1603"><img alt="Mironshoh1603's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mironshoh1603&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <p align="center">
-    <a href="https://github.com/ValisherBotirov/readme-typing-svg">
-       <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
-</p>
 
 ## 🛠️ My favorite tools
 
