@@ -65,7 +65,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mironshoh1603&show_icons=true&theme=gotham" alt="mironshokh.uz" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mironshoh1603&hide_progress=true&theme=gotham" alt="mironshokh.uz" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mironshoh1603&hide_progress=true)](https://github.com/mironshoh1603)
   
 
 
