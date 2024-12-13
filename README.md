@@ -102,7 +102,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
         <img alt="MySql"
              src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
     <a href="#">
-        <img alt="MySql"
+        <img alt="MySql" width="40"
              src="https://github.com/user-attachments/assets/70b7346a-ed3b-415f-a782-a110a4e2a2a5"/></a>
 </p>
 
