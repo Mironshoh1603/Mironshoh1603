@@ -103,7 +103,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
              src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
     <a href="#">
         <img alt="MySql"
-             src="https://github.com/user-attachments/assets/6d3c3dc5-6772-4102-9f91-249d042ff978"/></a>
+             src="https://github.com/user-attachments/assets/70b7346a-ed3b-415f-a782-a110a4e2a2a5"/></a>
 </p>
 
 ### ☁ Cloud hosting
