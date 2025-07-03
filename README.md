@@ -2,8 +2,6 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=magicsoftuz.magicsoftuz)
-
 <br />
 
 hi, I'm [Mironshoh Asadov](https://mironshokh.uz/), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -70,7 +68,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
 <div>
  
@@ -137,19 +134,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></a>
 
-<a href="#">
-        <img alt="#"
-             src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="70" width="70"></a>
-  
   
 <a href="#">
-        <img alt="Vsual Studio"
+        <img alt="Vsual Studio" 
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow" ></a>
     <a href="#">
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
 </p>
